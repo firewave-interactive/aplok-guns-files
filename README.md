@@ -1,2 +1,2 @@
 # aplok-guns-files
- Repo with releases of Aplok Guns addon for minecraft bedrock.
+ Repo with archives of all Aplok Guns files & changelogs.
